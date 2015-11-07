@@ -1,0 +1,14 @@
+{
+  "name": "nodewebkit-browser",
+  "version": "0.0.0",
+  "dependencies": {
+    "bootstrap": "3.3.5",
+    "angular": "1.4.6",
+    "font-awesome": "fontawesome#~4.4.0",
+    "angular-bootstrap": "~0.14.3",
+    "angular-sanitize": "~1.4.7"
+  },
+  "resolutions": {
+    "angular": "1.4.6"
+  }
+}
